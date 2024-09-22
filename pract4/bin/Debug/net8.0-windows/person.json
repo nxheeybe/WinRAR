@@ -1,0 +1,9 @@
+{
+  "Name": "Anna",
+  "Age": 30,
+  "Address": {
+    "Street": "aaaa",
+    "City": "Moscow",
+    "ZipCode": "fffff"
+  }
+}
